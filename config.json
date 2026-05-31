@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersalidate",
+        "uuid": 21166530,
+        "checksum": "jeqwg"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
